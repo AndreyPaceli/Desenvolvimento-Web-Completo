@@ -1,16 +1,72 @@
 # Desenvolvimento Web Completo
 
-Nesse repositorio teremos projetos das seguintes linguagens abaixo do basíco ao avançado:
+Aprenda agora mesmo as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress e muito mais! 
 
-1. HTML 5
-2. CSS 3 
-3. Bootstrap
-4. JavaScript
-5. Iniciando com servidor (Apache, PHP e MySQL)
-6. PHP 7 
-7. AJAX
-8. PHP com PDO e MySQL
-9. JQuery
-10. MVC com PHP
-11. API com Slim Framework
-12. SASS
+Conheça o repositorio mais COMPLETO, que reúne o Desenvolvimento Web front-end e back-end além de aplicações mobile, tudo na pratica.
+
+
+
+Confira abaixo os projetos do pacote de Desenvolvimento Web Completo 2021:
+
+1) HTML5
+- Projeto UNES (Página institucional de uma universidade)
+
+2) CSS3
+- Projeto Anna Bella (Página web pessoal)
+- Projeto TecBlog (Blog de tecnologia)
+
+3) CSS3 Intermediário & avançado
+- Projeto Notícias da Cidade (Portal de notícias)
+- Projeto Chalé Hotel (Página publicitária)
+
+4) HTML5 e CSS3 - Recursos especiais
+- Projeto Museu Nacional
+
+5) Bootstrap 4 & Design responsivo
+- Projeto Finans
+- Spotify Clone
+
+6) JavaScript
+- App Calculadora
+- App Game Mata Mosquito (Um game sensacional que vai desafiar seus conhecimentos de lógica de programação)
+
+7) JavaScript Moderno (ECMAScript 2015 - ES6) e Orientação a Objetos
+- App Orçamento Pessoal (App para controle pessoal de finanças)
+
+8) PHP 7
+- App Help Desk (App para abertura e acompanhamento de suportes técnicos)
+
+9) PHP 7 e Orientação a Objetos
+- App Send Mail (App para criação e envio de e-mails)
+
+10) Banco de dados MySQL
+- Projeto Banco de Dados Loja Virtual (Implementação do banco de dados de uma loja virtual)
+
+11) Ajax
+- App Pesquisa Endereço (Aprenda a realizar requisições HTTP via XMLHttpRequest para API's)
+
+12) PHP com PDO
+- App Lista de Tarefas (PHP com PDO e MySQL)
+
+13) Publicação de aplicações Web na Internet
+  - Publicação de aplicações web (PHP e MySQL) utilizando o InfintyFree
+
+14) JQuery
+- App Dashboard (Criação de um dashboard integrando front-end, back-end e banco de dados)
+
+15) Padrão de arquitetura MVC com PHP
+- Projeto miniframework (Criação de um miniframework baseado na arquitetura MVC)
+
+16) PHP 7 & MySQL - Projeto aplicado Twitter Clone
+- Projeto Twitter Clone
+
+17) API com Slim Framework
+- Projeto API de Produtos
+
+18) Introdução ao WordPress (criação de blogs)
+- Projeto 10 minutos exercícios
+
+19) SASS
+
+20) Criando aplicações Mobile com IONIC
+- Projeto Gasolina ou Álcool
